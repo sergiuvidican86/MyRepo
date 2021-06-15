@@ -1,3 +1,0 @@
-# seleniumScripts
-
-hi
